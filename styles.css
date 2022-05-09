@@ -1,0 +1,43 @@
+.three {
+    border:3px #95CFFF double;
+    color:#EBFBFF;
+    background-color:black;
+    box-shadow:1px 1px 50px #95CFFF;
+}
+
+.four {
+    border:3px #FFF595 double;
+    color:#FDFFEB;
+    background-color:black;
+    box-shadow:1px 1px 50px #FFF595;
+}
+
+.one {
+    border:3px #A895FF double;
+    color:#F5EBFF;
+    background-color:black;
+    box-shadow:1px 1px 50px #A895FF;
+}
+
+.two {
+    border:3px #8FA3FF double;
+    color:#EBEEFF;
+    background-color:black;
+    box-shadow:1px 1px 50px #8FA3FF;
+}
+
+.submit {
+    background-color:black;
+    color:#FFE595;
+}
+
+.fortune-display {
+    padding:20px;
+    border:solid 1px black;
+    box-shadow:1px 1px 50px black;
+}
+
+.all {
+
+    justify-content:center;
+}
